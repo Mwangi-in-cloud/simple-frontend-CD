@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: cronosm4m/claudera:c05eb6169bcfd10fb93d0f9e1e2ff1a2aa27582c
+        image: cronosm4m/claudera:30e9f99447f9456e2004f10015e570ab099cad6a
 
 
 
